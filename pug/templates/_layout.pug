@@ -1,0 +1,30 @@
+mjml
+    //- Head
+    mj-head
+        mj-title Poste Mjml
+        mj-raw.
+            <meta name="color-scheme" content="light"/>
+            <meta name="supported-color-schemes" content="light"/>
+            <meta name="format-detection" content="telephone=no"/>
+            <meta name="format-detection" content="date=no"/>
+            <meta name="format-detection" content="address=no"/>
+            <meta name="format-detection" content="email=no"/>
+
+        mj-attributes
+            mj-all(font-family='Ubuntu, Arial, Helvetica, sans-serif' font-weight='300' font-size='16px' line-height='120%' color='#626262')/
+            mj-image(border='none')/
+            mj-button(background-color='#F45E43' color="#ffffff" font-size='14px')
+        mj-breakpoint(width='480px')
+    //- Body
+    mj-body(background-color="#eeeeee")       
+        //- content
+        block content
+        //- map
+        block header
+            include ../includes/_header
+        //- recommended
+        block recommended
+            include ../includes/_recommended
+        //- footer
+        block footer
+            include ../includes/_footer
