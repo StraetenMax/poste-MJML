@@ -29,7 +29,7 @@
         <mj-text>inh - Inside Home</mj-text>
       </mj-column>
       <mj-column>
-        <mj-image></mj-image>
+        <mj-image src="https://i.ibb.co/tKsjGg4/logo-2.png"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
@@ -41,7 +41,7 @@
         </mj-text>
       </mj-column>
       <mj-column>
-        <mj-image></mj-image>
+        <mj-image src="https://i.ibb.co/vPfzhx0/1-1.png"></mj-image>
       </mj-column>
       <mj-column>
         <mj-text>
@@ -63,15 +63,15 @@
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-image></mj-image>
+        <mj-image src="https://i.ibb.co/2cN8Vb5/a.png"></mj-image>
         <mj-text>Cibler les consommateurs</mj-text>
       </mj-column>
       <mj-column>
-        <mj-image></mj-image>
+        <mj-image src="https://i.ibb.co/Wtvccnk/b.png"></mj-image>
         <mj-text>Capter l'attention</mj-text>
       </mj-column>
       <mj-column>
-        <mj-image></mj-image>
+        <mj-image src="https://i.ibb.co/SRFfZkT/c.png"></mj-image>
         <mj-text>Emmener dans un parcours d'achat engageant</mj-text>
       </mj-column>
     </mj-section>
