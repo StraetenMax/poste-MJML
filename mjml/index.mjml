@@ -9,19 +9,18 @@
       <meta name="format-detection" content="date=no"/>
       <meta name="format-detection" content="address=no"/>
       <meta name="format-detection" content="email=no"/>
-      
     </mj-raw>
     <mj-attributes>
-      <mj-all font-family="Ubuntu, Arial, Helvetica, sans-serif" font-weight="300" font-size="16px" line-height="120%" color="#626262"/>
       <mj-image border="none"/>
-      <mj-button background-color="#F45E43" color="#ffffff" font-size="14px"></mj-button>
     </mj-attributes>
     <mj-breakpoint width="480px"></mj-breakpoint>
   </mj-head>
   <mj-body background-color="#eeeeee">      
-    <mj-section background-color="#ffffff">
+    <mj-section padding="10px 0">
       <mj-column>
-        <mj-text>Si cet e-mail ne s'affiche pas correctement, cliquez ici pour la version en ligne.</mj-text>
+        <mj-text align="center" color="#000000">
+          <p style="margin:0;font-family:Times New Roman, serif;font-size:12px;font-weight:400;line-height:100%">Si cet e-mail ne s'affiche pas correctement, <a style="color:#0000ff" href="#" target="_blank">cliquez ici pour la version en ligne</a>.</p>
+        </mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#018ec4">
@@ -52,7 +51,7 @@
           <mj-text padding="0" align="center" font-family="Ubuntu, Helvetica, Arial, sans-serif" color="#013da5">
             <h2 style="margin:0;padding:0;font-size:23px;font-weight:700;line-height:35px">Découvrez <span style="text-transform:uppercase">inh</span>-Inside Home</h2>
             <h2 style="margin:0;padding:0;font-size:23px;font-weight:700;line-height:35px">l'offre omnicanale courrier, digital, géomarketing</h2>
-            <h2 style="margin:0;padding:0;font-size:23px;font-weight:700;line-height:35px">et data de La Poste Solutions Busines</h2>
+            <h2 style="margin:0;padding:0;font-size:23px;font-weight:700;line-height:35px">et data de La Poste Solutions Business</h2>
           </mj-text>
         </mj-column>
       </mj-section>
@@ -81,9 +80,11 @@
         <mj-text align="center" font-family="Ubuntu, Helvetica, Arial, sans-serif" font-size="13px" font-weight="700" line-height="18px" color="#ffffff">Emmener dans un parcours d'achat engageant</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section padding="10px 0">
       <mj-column>
-        <mj-text>Si vous souhaitez vous désabonner afin de ne plus recevoir d'offres personnalisées de la part de Club EMB et de ses partenaires, cliquez-ici. Pour cesser de recevoir nos informations sur l'adresse contact@ecosup-campus.fr, désabonnez-vous</mj-text>
+        <mj-text align="center" color="#000000">
+          <p style="margin:0;font-family:Times New Roman, serif;font-size:12px;font-weight:400;line-height:100%">Si vous souhaitez vous désabonner afin de ne plus recevoir d'offres personnalisées de la part de Club EMB et de ses partenaires, <a style="color:#0000ff" href="#" target="_blank">cliquez-ici</a>. Pour cesser de recevoir nos informations sur l'adresse <span style="color:#000000;text-decoration:none">contact@ecosup-campus.fr</span>, <a style="color:#0000ff" href="#" target="_blank">désabonnez-vous</a></p>
+        </mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
