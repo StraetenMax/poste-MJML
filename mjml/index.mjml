@@ -1,0 +1,33 @@
+
+<mjml>
+  <mj-head>
+    <mj-title>Poste Mjml</mj-title>
+    <mj-raw>
+      <meta name="color-scheme" content="light"/>
+      <meta name="supported-color-schemes" content="light"/>
+      <meta name="format-detection" content="telephone=no"/>
+      <meta name="format-detection" content="date=no"/>
+      <meta name="format-detection" content="address=no"/>
+      <meta name="format-detection" content="email=no"/>
+      
+    </mj-raw>
+    <mj-attributes>
+      <mj-all font-family="Ubuntu, Arial, Helvetica, sans-serif" font-weight="300" font-size="16px" line-height="120%" color="#626262"/>
+      <mj-image border="none"/>
+      <mj-button background-color="#F45E43" color="#ffffff" font-size="14px"></mj-button>
+    </mj-attributes>
+    <mj-breakpoint width="480px"></mj-breakpoint>
+  </mj-head>
+  <mj-body background-color="#eeeeee">      
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text align="center" font-size="32px" font-style="italic" font-family="serif" padding-top="40px" padding-bottom="40px">The Pizza Times</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-url="https://demo.tutorialzine.com/2017/02/images/header-image.jpg" background-size="cover" background-repeat="no-repeat">
+      <mj-column>
+        <mj-spacer height="300px"></mj-spacer>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
