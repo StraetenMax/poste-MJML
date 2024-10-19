@@ -50,35 +50,35 @@
       <mj-section padding="0">
         <mj-column padding="10px 25px">
           <mj-text padding="0" align="center" font-family="Ubuntu, Helvetica, Arial, sans-serif" color="#013da5">
-            <h2 style="margin:0;padding:0;font-size:23px;font-weight:700;line-height:35px">Découvrez inh-Inside Home</h2>
+            <h2 style="margin:0;padding:0;font-size:23px;font-weight:700;line-height:35px">Découvrez <span style="text-transform:uppercase">inh</span>-Inside Home</h2>
             <h2 style="margin:0;padding:0;font-size:23px;font-weight:700;line-height:35px">l'offre omnicanale courrier, digital, géomarketing</h2>
             <h2 style="margin:0;padding:0;font-size:23px;font-weight:700;line-height:35px">et data de La Poste Solutions Busines</h2>
           </mj-text>
         </mj-column>
       </mj-section>
     </mj-wrapper>
-    <mj-section>
+    <mj-section background-color="#018ec4">
       <mj-column>
-        <mj-text> 
-          <h2>Fidéliser vos clients ou en acquérir de nouveaux,</h2>
-          <h2>réactiver les abandonnistes, nos solutions marketing</h2>
-          <h2>vous permettent de toucher vos cibles directement à leur domicile.</h2>
+        <mj-text align="center" color="#ffffff">
+          <h3 style="margin:0;font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:20px;font-weight:700;line-height:25px;">Fidéliser vos clients ou en acquérir de nouveaux,</h3>
+          <h3 style="margin:0;font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:20px;font-weight:700;line-height:25px;">réactiver les abandonnistes, nos solutions marketing</h3>
+          <h3 style="margin:0;font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:20px;font-weight:700;line-height:25px;">vous permettent de toucher vos cibles directement à leur domicile.</h3>
         </mj-text>
-        <mj-button>Je découvre</mj-button>
+        <mj-button background-color="#ffc700" inner-padding="10px 25px" border="none" border-radius="3px" font-family="Ubuntu, Helvetica, Arial, sans-serif" font-size="20px" font-weight="700" line-height="120%" color="#000000" href="#" target="_blank">Je découvre</mj-button>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section background-color="#018ec4">
       <mj-column>
-        <mj-image src="https://i.ibb.co/2cN8Vb5/a.png"></mj-image>
-        <mj-text>Cibler les consommateurs</mj-text>
+        <mj-image align="center" width="150px" src="https://i.ibb.co/2cN8Vb5/a.png" alt=""></mj-image>
+        <mj-text align="center" font-family="Ubuntu, Helvetica, Arial, sans-serif" font-size="13px" font-weight="700" line-height="18px" color="#ffffff">Cibler les consommateurs</mj-text>
       </mj-column>
       <mj-column>
-        <mj-image src="https://i.ibb.co/Wtvccnk/b.png"></mj-image>
-        <mj-text>Capter l'attention</mj-text>
+        <mj-image align="center" width="150px" src="https://i.ibb.co/Wtvccnk/b.png" alt=""></mj-image>
+        <mj-text align="center" font-family="Ubuntu, Helvetica, Arial, sans-serif" font-size="13px" font-weight="700" line-height="18px" color="#ffffff">Capter l'attention</mj-text>
       </mj-column>
       <mj-column>
-        <mj-image src="https://i.ibb.co/SRFfZkT/c.png"></mj-image>
-        <mj-text>Emmener dans un parcours d'achat engageant</mj-text>
+        <mj-image align="center" width="150px" src="https://i.ibb.co/SRFfZkT/c.png" alt=""></mj-image>
+        <mj-text align="center" font-family="Ubuntu, Helvetica, Arial, sans-serif" font-size="13px" font-weight="700" line-height="18px" color="#ffffff">Emmener dans un parcours d'achat engageant</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
